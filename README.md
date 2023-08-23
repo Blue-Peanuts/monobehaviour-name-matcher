@@ -1,4 +1,4 @@
-# Unity MonoBehaviour Class Renamer
+# Unity MonoBehaviour Class Name Matcher
 
 A Visual Studio Code extension for Unity developers that simplifies renaming MonoBehaviour classes to match the file name.
 
