@@ -1,4 +1,4 @@
-# Unity MonoBehaviour Class Name Matcher
+# MonoBehaviour Name Matcher
 
 A Visual Studio Code extension for Unity developers that simplifies renaming MonoBehaviour classes to match the file name.
 
@@ -12,7 +12,7 @@ A Visual Studio Code extension for Unity developers that simplifies renaming Mon
 
 1. Open Visual Studio Code.
 2. Go to the Extensions view (`Ctrl+Shift+X`).
-3. Search for "Unity MonoBehaviour Class Name Matcher"
+3. Search for "MonoBehaviour Name Matcher"
 4. Click "Install" for the extension by [Blue-Peanuts/monobehaviour-name-matcher](https://github.com/Blue-Peanuts/monobehaviour-name-matcher).
 
 ## Usage
