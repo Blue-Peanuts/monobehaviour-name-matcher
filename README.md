@@ -12,7 +12,7 @@ A Visual Studio Code extension for Unity developers that simplifies renaming Mon
 
 1. Open Visual Studio Code.
 2. Go to the Extensions view (`Ctrl+Shift+X`).
-3. Search for "Unity MonoBehaviour Class Renamer."
+3. Search for "Unity MonoBehaviour Class Name Matcher"
 4. Click "Install" for the extension by [Blue-Peanuts/monobehaviour-name-matcher](https://github.com/Blue-Peanuts/monobehaviour-name-matcher).
 
 ## Usage
