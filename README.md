@@ -1,65 +1,31 @@
-# monobehaviour-name-matcher README
+# Unity MonoBehaviour Class Renamer
 
-This is the README for your extension "monobehaviour-name-matcher". After writing up a brief description, we recommend including the following sections.
+![Unity Logo](https://unity.com/logo-unity)
+
+A Visual Studio Code extension for Unity developers that simplifies renaming MonoBehaviour classes to match the file name.
 
 ## Features
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+- **Effortless Renaming**: Quickly rename MonoBehaviour classes to match the file name with a keyboard shortcut (`Shift+Alt+M`).
 
-For example if there is an image subfolder under your extension project workspace:
+- **Consistency**: Ensure naming consistency across your Unity project for improved code organization.
 
-\!\[feature X\]\(images/feature-x.png\)
+## Installation
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+1. Open Visual Studio Code.
+2. Go to the Extensions view (`Ctrl+Shift+X`).
+3. Search for "Unity MonoBehaviour Class Renamer."
+4. Click "Install" for the extension by [YourName/YourExtensionRepository](https://github.com/YourName/YourExtensionRepository).
 
-## Requirements
+## Usage
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+1. Open a Unity script file (e.g., `MyScript.cs`) in Visual Studio Code.
+2. Use the keyboard shortcut `Shift+Alt+M` to automatically rename the class to match the file name.
 
-## Extension Settings
+## License
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+This extension is licensed under the [MIT License](LICENSE).
 
-For example:
+## Author
 
-This extension contributes the following settings:
-
-* `myExtension.enable`: Enable/disable this extension.
-* `myExtension.thing`: Set to `blah` to do something.
-
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
-
-## Release Notes
-
-Users appreciate release notes as you update your extension.
-
-### 1.0.0
-
-Initial release of ...
-
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
-
----
-
-## Working with Markdown
-
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets
-
-## For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-**Enjoy!**
+- [Your Name](https://github.com/Blue-Peanuts)

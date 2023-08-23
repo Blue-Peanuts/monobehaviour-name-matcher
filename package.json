@@ -15,6 +15,12 @@
     "commands": [{
       "command": "monobehaviour-name-matcher.fixSelectedMonoBehaviourName",
       "title": "Fix MonoBehaviour Name"
+    }],
+    "keybindings": [{
+      "command": "monobehaviour-name-matcher.fixSelectedMonoBehaviourName",
+      "key": "shift+alt+m",
+      "mac": "shift+option+m",
+      "when": "editorTextFocus"
     }]
   },
   "scripts": {
