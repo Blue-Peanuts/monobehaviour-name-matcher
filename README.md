@@ -1,7 +1,5 @@
 # Unity MonoBehaviour Class Renamer
 
-![Unity Logo](https://unity.com/logo-unity)
-
 A Visual Studio Code extension for Unity developers that simplifies renaming MonoBehaviour classes to match the file name.
 
 ## Features
