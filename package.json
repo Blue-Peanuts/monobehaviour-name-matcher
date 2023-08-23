@@ -3,6 +3,7 @@
         "type": "git",
         "url": "https://github.com/Blue-Peanuts/monobehaviour-name-matcher.git"
     },
+    "publisher": "BluePeanuts",
     "name": "monobehaviour-name-matcher",
     "displayName": "MonoBehaviour Name Matcher",
     "description": "An extension for Unity devs to make editing MonoBehaviour file names easier.",
