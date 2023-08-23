@@ -20,10 +20,6 @@ A Visual Studio Code extension for Unity developers that simplifies renaming Mon
 1. Open a Unity script file (e.g., `MyScript.cs`) in Visual Studio Code.
 2. Use the keyboard shortcut `Shift+Alt+M` to automatically rename the class to match the file name.
 
-## License
-
-This extension is licensed under the [MIT License](LICENSE).
-
 ## Author
 
 - [Blue Peanuts]//github.com/Blue-Peanuts)
