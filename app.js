@@ -39,12 +39,6 @@ function matchName(doc)
         return;
     }
 
-    // check if it's abstract at same line as MonoBehaviour
-    if (doc.lineAt(monoBehaviourLine).text.includes("abstract")) {
-        vscode.window.showInformationMessage("This MonoBehaviour is abstract");
-        return;
-    }
-
     // get file name
     var fileName = doc.fileName.split("\\").pop().split(".")[0];
     // works since pop returns the popped element
@@ -57,7 +51,7 @@ function matchName(doc)
 
     // check if file name is not pascal case or contains non letters
     if (!(/^[a-zA-Z]+$/.test(fileName))) {
-        vscode.window.showInformationMessage("This file name is not pascal case");
+        vscode.window.showInformationMessage("This file name contains non letters");
         return;
     }
 
