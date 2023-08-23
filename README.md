@@ -26,4 +26,4 @@ This extension is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-- [Your Name](https://github.com/Blue-Peanuts)
+- [Blue Peanuts]//github.com/Blue-Peanuts)
