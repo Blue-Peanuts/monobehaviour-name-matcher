@@ -22,4 +22,4 @@ A Visual Studio Code extension for Unity developers that simplifies renaming Mon
 
 ## Author
 
-- [Blue Peanuts]//github.com/Blue-Peanuts)
+[Blue Peanuts](https://github.com/Blue-Peanuts)
