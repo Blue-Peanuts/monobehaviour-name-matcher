@@ -13,8 +13,8 @@
   "main": "./extension.js",
   "contributes": {
     "commands": [{
-      "command": "monobehaviour-name-matcher.helloWorld",
-      "title": "Hello World"
+      "command": "monobehaviour-name-matcher.fixSelectedMonoBehaviourName",
+      "title": "Fix MonoBehaviour Name"
     }]
   },
   "scripts": {
